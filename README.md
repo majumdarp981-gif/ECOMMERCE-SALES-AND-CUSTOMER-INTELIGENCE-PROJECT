@@ -79,3 +79,8 @@ Based on the analysis, the following areas could be considered for further busin
 - Evaluate marketing channels together: Marketing sources should be compared using both revenue and conversion rate. The lower conversion rate observed for socialbook could be investigated further to understand whether targeting, traffic quality, or campaign performance is contributing to the difference.
 
 - Reduce revenue concentration: Increasing the contribution of other products could help create a more balanced product revenue mix over time.
+
+
+### Main File
+
+ECommerce_Sales_Customer_Intelligence.xlsx contains the Excel analysis, including Power Query transformations, Power Pivot/DAX calculations, PivotTables, and the final dashboard.
