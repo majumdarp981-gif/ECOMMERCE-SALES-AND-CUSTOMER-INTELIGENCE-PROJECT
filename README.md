@@ -84,3 +84,6 @@ Based on the analysis, the following areas could be considered for further busin
 ### Main File
 
 ECommerce_Sales_Customer_Intelligence.xlsx contains the Excel analysis, including Power Query transformations, Power Pivot/DAX calculations, PivotTables, and the final dashboard.
+## Dataset Source
+The dataset used in this project is the **Maven Fuzzy Factory** e-commerce dataset provided by Maven Analytics.
+The dataset was used for learning and portfolio analysis purposes. The original dataset and its ownership remain with the respective source.
