@@ -51,3 +51,20 @@ The dashboard includes KPI cards and visualizations covering:
 - Revenue by Product
 - Revenue Contribution by Product
 - Customers by Order Frequency
+## Key Insights
+
+### 1. Most customers made only one purchase
+
+Out of 31,696 customers, 31,105 customers made only one purchase, while 565 customers made two purchases and 26 customers made three purchases.
+This shows that repeat purchasing was limited, creating an opportunity to improve customer retention and encourage additional purchases.
+
+### 2. Revenue was highly concentrated in one product
+
+The Original Mr. Fuzzy generated approximately $1.21M, contributing around 62.5% of total revenue.
+The remaining three products contributed a much smaller share of overall revenue, indicating a strong concentration of sales around the leading product.
+
+### 3. Marketing channels performed differently
+
+gsearch generated the highest revenue at approximately $1.28M and also recorded the highest number of conversions.
+At the same time, socialbook had the lowest conversion rate at 3.21%, compared with the overall conversion rate of 6.83%.
+This highlights the importance of evaluating marketing channels using both revenue and conversion performance rather than looking at a single metric.
