@@ -68,3 +68,14 @@ The remaining three products contributed a much smaller share of overall revenue
 gsearch generated the highest revenue at approximately $1.28M and also recorded the highest number of conversions.
 At the same time, socialbook had the lowest conversion rate at 3.21%, compared with the overall conversion rate of 6.83%.
 This highlights the importance of evaluating marketing channels using both revenue and conversion performance rather than looking at a single metric.
+## Business Recommendations
+
+Based on the analysis, the following areas could be considered for further business action:
+
+- Improve customer retention: Use post-purchase communication, personalized product recommendations, and targeted offers to encourage one-time customers to make another purchase.
+
+- Build around the leading product: Since The Original Mr. Fuzzy contributes a large share of revenue, its availability should be monitored while also exploring cross-selling opportunities with other products.
+
+- Evaluate marketing channels together: Marketing sources should be compared using both revenue and conversion rate. The lower conversion rate observed for socialbook could be investigated further to understand whether targeting, traffic quality, or campaign performance is contributing to the difference.
+
+- Reduce revenue concentration: Increasing the contribution of other products could help create a more balanced product revenue mix over time.
