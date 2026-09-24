@@ -35,3 +35,19 @@ Relevant tables were grouped and merged to connect orders, customers, products, 
 - Marketing channel revenue
 - Conversion rate by UTM source
 - Customer order frequency
+## Dashboard
+
+I created an Excel dashboard to bring the main findings together in one place.
+The dashboard includes KPI cards and visualizations covering:
+
+- Total Revenue
+- Total Orders
+- Unique Customers
+- Conversion Rate
+- Repeat Purchase Rate
+- Revenue by UTM Source
+- Revenue Contribution by UTM Source
+- Conversion Rate by UTM Source
+- Revenue by Product
+- Revenue Contribution by Product
+- Customers by Order Frequency
