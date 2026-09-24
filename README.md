@@ -22,3 +22,16 @@ I used these tables to analyze sales performance, customer purchasing behavior, 
 - DAX
 - PivotTables
 - Excel Charts
+## Data Preparation & Analysis
+
+I first reviewed the available tables and prepared the data using Power Query. This included checking for duplicate records, correcting data types, transforming columns, and preparing the data for analysis.
+Relevant tables were grouped and merged to connect orders, customers, products, and website sessions. This helped create the datasets required for customer, product, sales, and marketing analysis.
+
+### Analysis Performed
+
+- Sales and order performance
+- Customer purchasing behavior
+- Product revenue contribution
+- Marketing channel revenue
+- Conversion rate by UTM source
+- Customer order frequency
