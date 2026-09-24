@@ -38,6 +38,7 @@ Relevant tables were grouped and merged to connect orders, customers, products, 
 ## Dashboard
 
 I created an Excel dashboard to bring the main findings together in one place.
+![E-Commerce Dashboard](dashboard.png)
 The dashboard includes KPI cards and visualizations covering:
 
 - Total Revenue
